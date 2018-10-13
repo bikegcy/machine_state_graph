@@ -5,7 +5,7 @@ Machine state graph built with React
 
 ```bash
 # Download the project 
-The following commands are required in the "my-app" folder.
+The following commands are required in the "machine_state_graph" folder.
 
 # Install all dependencies for the application
 npm install
