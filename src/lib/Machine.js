@@ -31,7 +31,7 @@ class Machine {
   start () {
     setTimeout(() => {
       this.run();
-    }, this.taskFreq);
+    }, this.taskFreq / 2);
   }
 
   update (msg) {
