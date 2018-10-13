@@ -10,6 +10,9 @@ The following commands are required in the "my-app" folder.
 # Install all dependencies for the application
 npm install
 
+# Test the codes
+npm test a
+
 # Run the application
 npm run start
 
